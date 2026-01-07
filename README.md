@@ -5,3 +5,10 @@ The board with an STM32F103CBT and an SH1106 OLED (128x64) comes from a defectiv
 
 ![IMG_20260108_001242](https://github.com/user-attachments/assets/1e4ebed3-a0f8-4825-adf3-4ad9fe622511)
 
+
+Libraries
+https://github.com/sparkfun/SparkFun_MCP9600_Arduino_Library (1.0.6)
+https://github.com/lexus2k/ssd1306 (1.8.5)
+https://github.com/stm32duino/STM32RTC (1.8.0)
+
+<img width="406" height="658" alt="image" src="https://github.com/user-attachments/assets/e48daec8-af4e-4397-8340-c39b9497f135" />
