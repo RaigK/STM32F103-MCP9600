@@ -3,6 +3,7 @@
 #include "SparkFun_MCP9600.h" 
 #include "ssd1306.h"
 
+
 // --- Instanzen ---
 STM32RTC& rtc = STM32RTC::getInstance();
 TwoWire Wire1(PB7, PB6); 
